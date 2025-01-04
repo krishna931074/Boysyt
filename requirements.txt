@@ -28,6 +28,6 @@ Jinja2==3.0.3
 werkzeug==2.0.2
 itsdangerous==2.0.1
 ffmpeg
-youtube-dl
+youtube
 m3u8-download
-yt-dlp --upgrade
+yt-dlp
